@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Maël Badet — DevOps Engineer" width="100%" />
+<a href="https://mael-badet.fr">
+  <img src="./assets/CWC-white.webp" alt="Logo officiel Code and Web Consulting" width="180" />
+</a>
+
+<br />
+
+<img src="./assets/banner.svg" alt="Maël Badet — Code and Web Consulting" width="100%" />
 
 <br />
 
