@@ -1,32 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Maël Badet — DevOps Engineer</title>
-  <desc id="desc">Professional banner for Maël Badet, DevOps Engineer and secure automation specialist.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#07111f"/>
-      <stop offset="0.55" stop-color="#0b1f36"/>
-      <stop offset="1" stop-color="#0e7490"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="75%" cy="20%" r="70%">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity=".35"/></filter>
-  </defs>
-  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="24" fill="url(#glow)"/>
-  <g opacity=".16" stroke="#67e8f9" fill="none">
-    <path d="M760 40h390M800 90h350M730 140h420M820 190h330M770 240h380"/>
-    <circle cx="780" cy="40" r="5" fill="#67e8f9"/><circle cx="830" cy="90" r="5" fill="#67e8f9"/>
-    <circle cx="760" cy="140" r="5" fill="#67e8f9"/><circle cx="850" cy="190" r="5" fill="#67e8f9"/>
-    <circle cx="800" cy="240" r="5" fill="#67e8f9"/>
-  </g>
-  <g filter="url(#shadow)">
-    <rect x="62" y="62" width="176" height="176" rx="38" fill="#0f2942" stroke="#22d3ee" stroke-width="3"/>
-    <path d="M103 191V109l47 49 47-49v82" fill="none" stroke="#e6faff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="197" cy="191" r="8" fill="#22d3ee"/>
-  </g>
-  <text x="282" y="118" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Maël Badet</text>
-  <text x="284" y="166" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="600">DEVOPS ENGINEER · DEVSECOPS · AUTOMATION</text>
-  <text x="284" y="211" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Build reliable systems. Automate delivery. Secure by design.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Maël Badet — Code and Web Consulting</title><desc id="desc">Professional banner matching mael-badet.fr.</desc>
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ef4444"/><stop offset="1" stop-color="#f97316"/></linearGradient><radialGradient id="glow" cx="92%" cy="10%" r="72%"><stop offset="0" stop-color="#ef4444" stop-opacity=".22"/><stop offset="1" stop-color="#ef4444" stop-opacity="0"/></radialGradient><filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity=".45"/></filter></defs>
+<rect width="1200" height="320" rx="24" fill="#111111"/><rect width="1200" height="320" rx="24" fill="url(#glow)"/><path d="M0 316h1200" stroke="url(#accent)" stroke-width="8"/>
+<g opacity=".11" stroke="#f7f3ee" fill="none"><path d="M790 36h340M830 82h300M765 128h365M850 174h280M800 220h330M870 266h260"/><circle cx="790" cy="36" r="5" fill="#ef4444"/><circle cx="830" cy="82" r="5" fill="#f97316"/><circle cx="765" cy="128" r="5" fill="#ef4444"/><circle cx="850" cy="174" r="5" fill="#f97316"/></g>
+<g transform="translate(58 51)" filter="url(#shadow)"><rect width="206" height="206" rx="30" fill="#171717" stroke="#ef4444" stroke-width="3"/><text x="103" y="103" text-anchor="middle" dominant-baseline="central" fill="#f7f3ee" font-family="Arial Black,Arial,sans-serif" font-size="68" font-weight="900" letter-spacing="-9">CWC</text><text x="103" y="167" text-anchor="middle" fill="url(#accent)" font-family="Consolas,monospace" font-size="36" font-weight="700">&lt; &amp; &gt;</text></g>
+<text x="306" y="105" fill="#f7f3ee" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="49" font-weight="750">Maël Badet</text><text x="309" y="151" fill="#ef4444" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="1">CODE AND WEB CONSULTING</text><text x="309" y="195" fill="#f7f3ee" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">Web · Cybersécurité · SEO · DevOps</text><text x="309" y="235" fill="#a3a3a3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Concevoir. Sécuriser. Déployer. Faire grandir.</text>
 </svg>
