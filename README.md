@@ -4,17 +4,17 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mael--badet.fr-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mael-badet.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mael--badet.fr-ef4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mael-badet.fr)
 [![Email](https://img.shields.io/badge/Email-cwc%40mael--badet.fr-0f172a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:cwc@mael-badet.fr)
-[![Profile views](https://komarev.com/ghpvc/?username=maelbadet&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)](https://github.com/maelbadet)
+[![Profile views](https://komarev.com/ghpvc/?username=maelbadet&style=for-the-badge&color=ef4444&label=PROFILE+VIEWS)](https://github.com/maelbadet)
 
 </div>
 
 ## About me
 
-I'm a **DevOps Engineer** and cybersecurity enthusiast based in France. I build reliable infrastructure, automate software delivery and integrate security throughout the development lifecycle.
+I'm a **DevOps Engineer and web developer** based in Nantes, France. I design, secure, deploy and improve digital products with a strong focus on reliability, performance and business value.
 
-Alongside my engineering work, I run **Code and Web Consulting**, where I create secure, performant web solutions and automation services for small and medium-sized businesses.
+Through **Code and Web Consulting**, I support companies, SMEs and independent professionals with web development, cybersecurity, SEO, DevOps and automation.
 
 - 🔭 Building CI/CD pipelines, monitoring platforms and self-hosted infrastructure
 - 🛡️ Focused on DevSecOps, secrets management and application security
@@ -101,5 +101,5 @@ Have a DevOps, cybersecurity, automation or web project?
 - **Professional email:** [cwc@mael-badet.fr](mailto:cwc@mael-badet.fr)
 
 <div align="center">
-  <sub>Built with an infrastructure-first mindset.</sub>
+  <sub>Code and Web Consulting — Concevoir. Sécuriser. Déployer. Faire grandir.</sub>
 </div>
